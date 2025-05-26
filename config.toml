@@ -1,0 +1,10 @@
+
+baseURL = "https://gempia-blog.pages.dev/"
+languageCode = "en-us"
+title = "Gempia Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
